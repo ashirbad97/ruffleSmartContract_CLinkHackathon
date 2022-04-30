@@ -54,7 +54,6 @@ contract Raffle{
         // Emitting the event with the user address
         emit RaffleEnter(msg.sender);
     }
-
     // N.B: To select a winner we want to
     // 1. Do this automatically
     // 2. We want a real random winner
@@ -75,7 +74,4 @@ contract Raffle{
         ){
 
     }
-
-
-
 }
