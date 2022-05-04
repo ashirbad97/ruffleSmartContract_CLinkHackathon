@@ -2,8 +2,8 @@
   "_format": "hh-sol-cache-2",
   "files": {
     "/media/ashirbad/New Volume/Repos/ruffleSmartContract_CLinkHackathon/contracts/raffle.sol": {
-      "lastModificationDate": 1651512683145,
-      "contentHash": "4e4d44dab912aade9a04b05c9fdb3ac9",
+      "lastModificationDate": 1651513218514,
+      "contentHash": "732482bbc2a7707e77ecefb0a9ebbe3a",
       "sourceName": "contracts/raffle.sol",
       "solcConfig": {
         "version": "0.8.7",
@@ -19,12 +19,19 @@
                 "evm.bytecode",
                 "evm.deployedBytecode",
                 "evm.methodIdentifiers",
-                "metadata"
+                "metadata",
+                "devdoc",
+                "userdoc",
+                "storageLayout",
+                "evm.gasEstimates"
               ],
               "": [
                 "ast"
               ]
             }
+          },
+          "metadata": {
+            "useLiteralContent": true
           }
         }
       },
@@ -40,7 +47,7 @@
       ]
     },
     "/media/ashirbad/New Volume/Repos/ruffleSmartContract_CLinkHackathon/node_modules/@chainlink/contracts/src/v0.8/interfaces/VRFCoordinatorV2Interface.sol": {
-      "lastModificationDate": 1651510178602,
+      "lastModificationDate": 1651562393038,
       "contentHash": "56ec852a2aeddf81bf5a5720a7fc6a63",
       "sourceName": "@chainlink/contracts/src/v0.8/interfaces/VRFCoordinatorV2Interface.sol",
       "solcConfig": {
@@ -57,12 +64,19 @@
                 "evm.bytecode",
                 "evm.deployedBytecode",
                 "evm.methodIdentifiers",
-                "metadata"
+                "metadata",
+                "devdoc",
+                "userdoc",
+                "storageLayout",
+                "evm.gasEstimates"
               ],
               "": [
                 "ast"
               ]
             }
+          },
+          "metadata": {
+            "useLiteralContent": true
           }
         }
       },
@@ -75,7 +89,7 @@
       ]
     },
     "/media/ashirbad/New Volume/Repos/ruffleSmartContract_CLinkHackathon/node_modules/@chainlink/contracts/src/v0.8/VRFConsumerBaseV2.sol": {
-      "lastModificationDate": 1651510178430,
+      "lastModificationDate": 1651562392580,
       "contentHash": "8cb9d3df2c7eda7096fc5f221bdebed3",
       "sourceName": "@chainlink/contracts/src/v0.8/VRFConsumerBaseV2.sol",
       "solcConfig": {
@@ -92,12 +106,19 @@
                 "evm.bytecode",
                 "evm.deployedBytecode",
                 "evm.methodIdentifiers",
-                "metadata"
+                "metadata",
+                "devdoc",
+                "userdoc",
+                "storageLayout",
+                "evm.gasEstimates"
               ],
               "": [
                 "ast"
               ]
             }
+          },
+          "metadata": {
+            "useLiteralContent": true
           }
         }
       },
